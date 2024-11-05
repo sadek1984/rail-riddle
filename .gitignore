@@ -1,0 +1,21 @@
+# Challenge data
+/data/*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.idea
+.vscode/*
+.history/
+*.vsix
+*~
